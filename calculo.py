@@ -5,3 +5,5 @@ def shortest_string(x,y):
 		return y
 		
 print(shortest_string("Hello", "Holandaa"))
+
+#LU SOS LO MAS SEXY QUE VI EN MI VIDA!!!
