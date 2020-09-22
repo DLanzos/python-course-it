@@ -4,4 +4,4 @@ def shortest_string(x,y):
 	else:
 		return y
 		
-print(shortest_string("Hello", "Holandaa"))
+print(shortest_string("Hello", "Hola a todos"))
